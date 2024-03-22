@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add Favorite</title>
+</head>
+<body>
+    <h1>Add Favorite</h1>
+    <form action="/add_favorite" method="post">
+        <label for="org_id">Org ID:</label><br>
+        <input type="text" id="org_id" name="org_id"><br>
+        <label for="favorite_org_id">Favorite Org ID:</label><br>
+        <input type="text" id="favorite_org_id" name="favorite_org_id"><br><br>
+        <input type="submit" value="Submit">
+    </form>
+    <hr>
+    <h1>Favorites</h1>
+    <a href="/list_favorites">List Favorites</a>
+</body>
+</html>
