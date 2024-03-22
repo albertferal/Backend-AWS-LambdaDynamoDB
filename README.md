@@ -104,3 +104,6 @@ Para acceder ejecutamos el comando ```python app.py``` en el directorio donde se
 - Serverless Framework: https://www.serverless.com/framework/docs
 - Python: https://docs.python.org/3/
 - Flask: https://flask.palletsprojects.com/en/3.0.x/
+
+
+Autor: Albert Fernández Alcázar
