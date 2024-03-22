@@ -54,7 +54,7 @@ Si todo funciona correctamente, podremos observar tanto en la consola de AWS, co
 1. Endpoint /add-favorite permite a los usuarios añadir una empresa a su lista de favoritos. Los datos se envían en formato JSON y se almacenan en la tabla DynamoDB.
 2. Endpoint /list-favorites devuelve la lista de empresas favoritas almacenadas en la base de datos. Los resultados se devuelven en formato JSON.
 
-    <img src="img\img5.jpg" alt="endpoints" style="width:50%; margin:auto;">
+    <img src="img\img5.jpg" alt="endpoints" style="width75%; margin:auto;">
 
 - URL base de la API: https://gkxlflaqr8.execute-api.eu-west-1.amazonaws.com/dev
 
