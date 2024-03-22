@@ -106,3 +106,5 @@ Para acceder ejecutamos el comando ```python app.py``` en el directorio donde se
 - Flask: https://flask.palletsprojects.com/en/3.0.x/
 
 ---
+
+<p align="right"><sub>Autor: Albert Fernández Alcázar</sub></p>
